@@ -16,4 +16,8 @@ It is almost 3 years I am working for <a href="https://wheretech.it/">WhereTech<
 
 
 ### My Interests:
+- <span style="color: orange">Chess</span>
+- <span style="color: lime">Music</span>
+-  <span style="color: red">Gym</span>
+-  <span style="color: aqua">Reading</span>
 
