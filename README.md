@@ -17,7 +17,7 @@ It is almost 3 years I am working for <a href="https://wheretech.it/">WhereTech<
 * 🚀  I'm currently working on [GIS Applications](http://wheretech.it/)
 * 🧠  I'm learning Python, Java, GIS, AI
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I love learning, feel free to get in touch with me.
+* ⚡  I love hear from you, feel free to get in touch with me.
 
 ### Skills
 
