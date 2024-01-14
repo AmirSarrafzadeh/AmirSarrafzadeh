@@ -8,15 +8,15 @@ Hi All, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 Backend Developer
 -----------------
 
-An enthusiastic programmer with a passion for solving complex problems, through elegant and efficient solutions.
+Tech lover who enjoys making geeky stuff simple! I'm all about sharing my tech knowledge in a fun and friendly way, making the digital world more accessible for everyone.
 
 It is almost 3 years I am working for <a href="https://wheretech.it/">WhereTech</a> company. My colleagues would describe me as a source of inspiration who maintains a positive, proactive attitude when faced with adversity. Currently, I am investing most of my time in improving my Tech skills.
 
 * 🌍  I'm based in Lovely Rome, Italy.
 * ✉️  You can contact me at [amir@wheretech.it](mailto:amir@wheretech.it)
 * 🚀  I'm currently working on [GIS Applications](http://wheretech.it/)
-* 🧠  I'm learning Python, Java, GIS, AI
-* 🤝  I'm open to collaborating on Projects
+* 🧠  I'm learning Python, Java, GIS, AI, ...
+* 🤝  I'm open to collaborating on any type of Projects
 * ⚡  I love hear from you, feel free to get in touch with me.
 
 ### Skills
