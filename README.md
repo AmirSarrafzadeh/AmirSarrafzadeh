@@ -14,7 +14,7 @@ It is almost 3 years I am working for <a href="https://wheretech.it/">WhereTech<
 
 * 🌍  I'm based in Lovely Rome, Italy.
 * ✉️  You can contact me at [amir@wheretech.it](mailto:amir@wheretech.it)
-* 🚀  I'm currently working on [GIS Applications](http://wheretech.it/)
+* 🚀  I'm currently working at [Where Tech S.r.l Company](http://wheretech.it/)
 * 🧠  I'm learning Python, Java, GIS, AI, ...
 * 🤝  I'm open to collaborating on any type of Projects
 * ⚡  I love hear from you, feel free to get in touch with me.
