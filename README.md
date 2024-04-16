@@ -20,7 +20,7 @@ It is almost 3 years I am working for <a href="https://wheretech.it/">WhereTech<
 * ⚡  I love hear from you, feel free to get in touch with me.
 
 ### Skills
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=anaconda, bitbucket, discord, bots, django, docker, fastapi, firebase, flask, git, github, gitlab, gradle, heroku, java, latex, matlab, maven, mysql, opencv, postman, py, pytorch, rabbitmq ,regex, sqlite, supabase, sklearn, tensor-flow, windows"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=anaconda,bitbucket,discord, bots, django, docker, fastapi, firebase, flask, git, github, gitlab, gradle, heroku, java, latex, matlab, maven, mysql, opencv, postman, py, pytorch, rabbitmq ,regex, sqlite, supabase, sklearn, tensor-flow, windows"> </a> </p>
 
 
 ### Socials
