@@ -20,7 +20,9 @@ It is almost 3 years I am working for <a href="https://wheretech.it/">WhereTech<
 * ⚡  I love hear from you, feel free to get in touch with me.
 
 ### Skills and Technologies
-<p align="left"><a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda"></a> <a href="https://bitbucket.org/"><img src="https://skillicons.dev/icons?i=bitbucket"></a></p>
+<p align="left"><a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda"></a> 
+  <a href="https://bitbucket.org/"><img src="https://skillicons.dev/icons?i=bitbucket"></a>
+</p>
 
 
 ### Socials
