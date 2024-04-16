@@ -19,7 +19,7 @@ It is almost 3 years I am working for <a href="https://wheretech.it/">WhereTech<
 * 🤝  I'm open to collaborating on any type of Projects.
 * ⚡  I love hear from you, feel free to get in touch with me.
 
-### Skills
+### Skills and Technologies
 <p align="left"> <a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda"> </a> </p>
 
 
