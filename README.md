@@ -20,7 +20,7 @@ It is almost 3 years I am working for <a href="https://wheretech.it/">WhereTech<
 * ⚡  I love hear from you, feel free to get in touch with me.
 
 ### Skills
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=pycharm,python,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=python,github,mysql,java,GIS,arcgis pro,arcgis online,,nodejs"> </a> </p>
 
 
 ### Socials
