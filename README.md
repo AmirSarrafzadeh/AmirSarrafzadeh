@@ -22,6 +22,23 @@ It is almost 3 years I am working for <a href="https://wheretech.it/">WhereTech<
 ### Skills and Technologies
 <p align="left"><a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda"></a> 
   <a href="https://bitbucket.org/"><img src="https://skillicons.dev/icons?i=bitbucket"></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi"></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git"></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github"></a>
+  <a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab"></a>
+  <a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku"></a>
+  <a href="https://www.java.com/en/"><img src="https://skillicons.dev/icons?i=java"></a>
+  <a href="https://www.latex-project.org/"><img src="https://skillicons.dev/icons?i=latex"></a>
+  <a href="https://maven.apache.org/"><img src="https://skillicons.dev/icons?i=maven"></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql"></a>
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv"></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman"></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python"></a>
+  <a href="https://www.rabbitmq.com/"><img src="https://skillicons.dev/icons?i=rabbitmq"></a>
+  <a href="https://regexr.com/"><img src="https://skillicons.dev/icons?i=regex"></a>
+  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite"></a>
+  <a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase"></a>
+  <a href="https://scikit-learn.org/stable/"><img src="https://skillicons.dev/icons?i=sklearn"></a>
 </p>
 
 
