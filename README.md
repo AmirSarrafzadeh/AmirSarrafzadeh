@@ -1,7 +1,6 @@
 
-Hi All, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF772&random=false&width=435&lines=Hey%2C++Welcome+to+My+GitHub!+%E2%9C%85%F0%9F%91%8B)](https://git.io/typing-svg)
 ============================================================================================================================
-# My name is AMIR
 
 <img src="https://github.com/AmirSarrafzadeh/AmirSarrafzadeh/blob/main/Icons/f1.png?raw=true" alt="Photo">
 
