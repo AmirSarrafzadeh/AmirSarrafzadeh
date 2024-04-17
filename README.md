@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF772&random=false&width=435&lines=Hey%2C++Welcome+to+My+GitHub!+%E2%9C%85%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF772&random=false&width=435&lines=%3Ctext%20x%3D%225%22%20y%3D%2250%22%20font-size%3D%2250%22%20fill%3D%22%23FF0000%22%3EHey%2C%3C%2Ftext%3E%0A%3Ctext%20x%3D%22100%22%20y%3D%2250%22%20font-size%3D%2250%22%20fill%3D%22%2300FF00%22%3EWelcome%3C%2Ftext%3E%0A%3Ctext%20x%3D%22200%22%20y%3D%2250%22%20font-size%3D%2250%22%20fill%3D%22%230000FF%22%3Eto%3C%2Ftext%3E%0A%3Ctext%20x%3D%22270%22%20y%3D%2250%22%20font-size%3D%2250%22%20fill%3D%22%23FF00FF%22%3EMy%3C%2Ftext%3E%0A%3Ctext%20x%3D%22300%22%20y%3D%2250%22%20font-size%3D%2250%22%20fill%3D%22%23FFFF00%22%3EGitHub!%3C%2Ftext%3E%0A%3Ctext%20x%3D%22410%22%20y%3D%2250%22%20font-size%3D%2250%22%20fill%3D%22%2300FFFF%22%3E%E2%9C%85%F0%9F%91%8B%3C%2Ftext%3E)](https://git.io/typing-svg)
 ============================================================================================================================
 
 <img src="https://github.com/AmirSarrafzadeh/AmirSarrafzadeh/blob/main/Icons/f1.png?raw=true" alt="Photo">
