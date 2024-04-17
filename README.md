@@ -19,6 +19,30 @@ It is almost 3 years I am working for <a href="https://wheretech.it/">WhereTech<
 * 🤝  I'm open to collaborating on any type of Projects.
 * ⚡  I love hear from you, feel free to get in touch with me.
 
+ 
+### Profile Views
+
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=AmirSarrafzadeh&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+
 ### Skills and Technologies
 <p align="left"><a href="https://www.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda"></a> 
   <a href="https://bitbucket.org/"><img src="https://skillicons.dev/icons?i=bitbucket"></a>
