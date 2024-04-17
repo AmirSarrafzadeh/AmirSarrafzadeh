@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Platypi&weight=900&size=30&pause=1000&color=F7F000&background=2FB94200&center=true&vCenter=true&random=false&width=838&height=80&lines=Hey%2C++Welcome+to+My+GitHub!+%E2%9C%85%F0%9F%91%8B)](https://git.io/typing-svg)<img src="https://github.com/AmirSarrafzadeh/AmirSarrafzadeh/blob/main/Icons/f1.png?raw=true" alt="Photo">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Platypi&weight=900&size=30&pause=1000&color=1E90FF&background=2FB94200&center=true&vCenter=true&random=false&width=838&height=80&lines=Hey%2C++Welcome+to+My+GitHub!+%E2%9C%85%F0%9F%91%8B)](https://git.io/typing-svg)<img src="https://github.com/AmirSarrafzadeh/AmirSarrafzadeh/blob/main/Icons/f1.png?raw=true" alt="Photo">
 
 Backend Developer
 -----------------
