@@ -38,7 +38,7 @@ It is almost 3 years I am working for <a href="https://wheretech.it/">WhereTech<
       </td> -->
       <!-- Profile Views -->
       <td>
-         <a href="https://github.com/AmirSarrafzadeh"> <img src="https://komarev.com/ghpvc/?username=AmirSarrafzadeh&style=for-the-badge&color=blue"> </a>
+         <a href="https://github.com/AmirSarrafzadeh"> <img src="https://komarev.com/ghpvc/?username=AmirSarrafzadeh&style=for-the-badge&color=orange"> </a>
       </td>
     </tr>
   </table>
