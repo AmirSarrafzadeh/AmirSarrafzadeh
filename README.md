@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DF772&random=false&width=435&lines=Hey%2C++Welcome+to+My+GitHub!+%E2%9C%85%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=2DF772&center=true&vCenter=true&random=false&width=620&height=40&lines=Hey%2C++Welcome+to+My+GitHub!+%E2%9C%85%F0%9F%91%8B;I+hope+you+find+something+interesting+or+useful.;Happy+Coding!+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://github.com/AmirSarrafzadeh/AmirSarrafzadeh/blob/main/Icons/f1.png?raw=true" alt="Photo">
 
