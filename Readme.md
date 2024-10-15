@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Platypi&weight=900&size=24&pause=1000&color=D2691E&background=2FB94200&center=true&vCenter=true&random=false&width=838&height=80&lines=Hey%2C++Welcome+to+My+GitHub!+%E2%9C%85%F0%9F%91%8B)](https://git.io/typing-svg)<img src="https://github.com/AmirSarrafzadeh/AmirSarrafzadeh/blob/main/Icons/f1.png?raw=true" alt="Photo">
 
-Backend Developer
+SENIOR SOFTWARE ENGINEER
 -----------------
 
 Tech lover who enjoys making geeky stuff simple! I'm all about sharing my tech knowledge in a fun and friendly way, making the digital world more accessible for everyone.
@@ -9,7 +9,7 @@ It is almost 4 years I am working for <a href="https://wheretech.it/">WhereTech<
 
 * 🌍  I'm based in Lovely Rome, Italy.
 * ✉️  You can contact me at [amir@wheretech.it](mailto:amir@wheretech.it).
-* 🚀  I'm currently working as a Python and GIS Developer at [WhereTech Company](http://wheretech.it/).
+* 🚀  I'm currently working as a Senior Software Engineer at [WhereTech Company](http://wheretech.it/).
 * 🧠  I'm learning Python, Java, GIS, AI, ...
 * 🤝  I'm open to collaborating on any type of Projects.
 * ⚡  I love hear from you, feel free to get in touch with me.
